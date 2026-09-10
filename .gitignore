@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Data & generated artifacts (large / regenerable — do not commit)
+data/
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+!docs/**/*.png
+outputs/*.npy
+outputs/*.pt
+*.npy
+*.pt
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

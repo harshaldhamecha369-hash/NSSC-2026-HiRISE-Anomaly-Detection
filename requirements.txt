@@ -1,0 +1,18 @@
+# Core
+numpy>=1.24
+Pillow>=10.0
+
+# Deep learning
+torch>=2.1
+torchvision>=0.16
+
+# Plotting / progress
+matplotlib>=3.7
+tqdm>=4.66
+
+# Notebook environment
+jupyterlab>=4.0
+ipywidgets>=8.0
+
+# Phase 2 hand-off (Isolation Forest) — not run in this repo, listed for convenience
+scikit-learn>=1.3
